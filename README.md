@@ -1,4 +1,4 @@
-# FarmerConnect - Connecting Farmers & Businesses Directly
+# AgriConnect - Connecting Farmers & Businesses Directly
 
 ## Overview
 FarmerConnect is a platform that enables farmers to connect directly with businesses, eliminating middlemen and ensuring fair trade. It provides a seamless way for farmers to sell their produce at better prices while giving businesses direct access to fresh, high-quality products.
